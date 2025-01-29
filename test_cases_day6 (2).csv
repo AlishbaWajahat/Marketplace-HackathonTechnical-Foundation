@@ -1,0 +1,7 @@
+Test Case ID,Description,Steps,Expected Result,Actual Result,Status,Remarks
+TC001,Verify homepage loads,"Open browser, Enter URL, Press Enter",Homepage loads successfully,Homepage loads successfully,Passed,N/A
+TC002,Validate product listing,"Navigate to product page, Verify all products are displayed",All products should be visible,All products are visible,Passed,N/A
+TC003,Test API error handling,"Simulate API failure, Observe error messages",Proper error messages should be displayed,Error messages displayed correctly,Passed,N/A
+TC004,Test responsiveness layout,"Resize browser window, Check layout adjustments",Layout should adapt correctly,Layout adapts as expected,Passed,N/A
+TC005,Test cart functionality,"Add item to cart, View cart, Remove item",Cart should update correctly,Cart updates as expected,Passed,N/A
+TC006,Category and search filter test,"Apply category and search filters, Verify filtered results",Only relevant products should be shown,Filters work correctly,Passed,N/A
